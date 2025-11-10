@@ -1,4 +1,7 @@
 ## Hi there 👋
+-I'm an BSC csit student passionate about Python, Django, Web development.   
+-I’m learning web development,APIs step-by-step.  
+-Looking for internship opportunities to grow my skills and work on real-world projects.
 
 <!--
 **sabinameche/sabinameche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
