@@ -1,5 +1,5 @@
 ## Hi there 👋
--I'm an BSC csit student passionate about Python, Django, Web development.   
+-I'm an BSC csit student passionate about Python, Django and Web development.   
 -I’m learning web development,APIs step-by-step.  
 -Looking for internship opportunities to grow my skills and work on real-world projects.
 
